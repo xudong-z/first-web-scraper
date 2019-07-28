@@ -1,0 +1,171 @@
+0,film,year,awards,nominations,awards_ratio
+1,Moonlight,2016,3,8,0.375
+2,La La Land,2016,6,14,0.429
+3,Mad Max: Fury Road,2015,6,10,0.6
+4,The Revenant,2015,3,12,0.25
+5,Birdman,2014,4,9,0.444
+6,The Grand Budapest Hotel,2014,4,9,0.444
+7,Whiplash,2014,3,5,0.6
+8,12 Years a Slave,2013,3,9,0.333
+9,Gravity,2013,7,10,0.7
+10,Dallas Buyers Club,2013,3,6,0.5
+11,Argo,2012,3,7,0.429
+12,Life of Pi,2012,4,11,0.364
+13,Les Miserables,2012,3,8,0.375
+14,The Artist,2011,5,10,0.5
+15,Hugo,2011,5,11,0.455
+16,The King's Speech,2010,4,12,0.333
+17,Inception,2010,4,8,0.5
+18,The Social Network,2010,3,8,0.375
+19,The Hurt Locker,2009,6,9,0.667
+20,Avatar,2009,3,9,0.333
+21,Slumdog Millionaire,2008,8,10,0.8
+22,The Curious Case of Benjamin Button,2008,3,13,0.231
+23,No Country for Old Men,2007,4,8,0.5
+24,The Bourne Ultimatum,2007,3,3,1
+25,"Departed, TheThe Departed",2006,4,5,0.8
+26,Pan's Labyrinth,2006,3,6,0.5
+27,Crash,2005,3,6,0.5
+28,Brokeback Mountain,2005,3,8,0.375
+29,Memoirs of a Geisha,2005,3,6,0.5
+30,King Kong,2005,3,4,0.75
+31,Million Dollar Baby,2004,4,7,0.571
+32,"Aviator, TheThe Aviator",2004,5,11,0.455
+33,Lord of the Rings,2003,11,11,1
+34,Chicago,2002,6,13,0.462
+35,"Pianist, TheThe Pianist",2002,3,7,0.429
+36,A Beautiful Mind,2001,4,8,0.5
+37,Lord of the Rings,2001,4,13,0.308
+38,Gladiator,2000,5,12,0.417
+39,"Crouching Tiger, Hidden Dragon",2000,4,10,0.4
+40,Traffic,2000,4,5,0.8
+41,American Beauty,1999,5,8,0.625
+42,The Matrix,1999,4,4,1
+43,Shakespeare in Love,1998,7,13,0.538
+44,Saving Private Ryan,1998,5,11,0.455
+45,Life Is Beautiful,1998,3,7,0.429
+46,Titanic,1997,11,14,0.786
+47,The English Patient,1996,9,12,0.75
+48,Braveheart,1995,5,10,0.5
+49,Forrest Gump,1994,6,13,0.462
+50,Schindler's List,1993,7,12,0.583
+51,The Piano,1993,3,8,0.375
+52,Jurassic Park,1993,3,3,1
+53,Unforgiven,1992,4,9,0.444
+54,Howards End,1992,3,9,0.333
+55,Bram Stoker's Dracula,1992,3,4,0.75
+56,The Silence of the Lambs,1991,5,7,0.714
+57,Terminator 2: Judgment Day,1991,4,6,0.667
+58,Dances with Wolves,1990,7,12,0.583
+59,Dick Tracy,1990,3,7,0.429
+60,Driving Miss Daisy,1989,4,9,0.444
+61,Glory,1989,3,5,0.6
+62,Rain Man,1988,4,8,0.5
+63,Dangerous Liaisons,1988,3,7,0.429
+64,The Last Emperor,1987,9,9,1
+65,Moonstruck,1987,3,6,0.5
+66,Platoon,1986,4,8,0.5
+67,A Room with a View,1986,3,8,0.375
+68,Hannah and Her Sisters,1986,3,7,0.429
+69,Out of Africa,1985,7,11,0.636
+70,Amadeus,1984,8,11,0.727
+71,The Killing Fields,1984,3,7,0.429
+72,Terms of Endearment,1983,5,11,0.455
+73,The Right Stuff,1983,4,8,0.5
+74,Fanny & Alexander ,1983,4,6,0.667
+75,Gandhi,1982,8,11,0.727
+76,E.T.: The Extra-Terrestrial,1982,4,9,0.444
+77,Chariots of Fire,1981,4,7,0.571
+78,Reds,1981,3,12,0.25
+79,On Golden Pond,1981,3,10,0.3
+80,Ordinary People,1980,4,6,0.667
+81,Tess,1980,3,6,0.5
+82,Kramer vs. Kramer,1979,5,9,0.556
+83,All That Jazz,1979,4,9,0.444
+84,"Deer Hunter, TheThe Deer Hunter",1978,5,9,0.556
+85,Coming Home,1978,3,8,0.375
+86,Annie Hall,1977,4,5,0.8
+87,Julia,1977,3,11,0.273
+88,Rocky,1976,3,10,0.3
+89,Network,1976,4,10,0.4
+90,All the President's Men,1976,4,8,0.5
+91,One Flew over the Cuckoo's Nest,1975,5,9,0.556
+92,Barry Lyndon,1975,4,7,0.571
+93,Jaws,1975,3,4,0.75
+94,Godfather,1974,6,11,0.545
+95,The Towering Inferno,1974,3,8,0.375
+96,The Sting,1973,7,10,0.7
+97,Cabaret,1972,8,10,0.8
+98,The French Connection,1971,5,8,0.625
+99,Fiddler on the Roof,1971,3,8,0.375
+100,Patton,1970,7,10,0.7
+101,Midnight Cowboy,1969,3,7,0.429
+102,Butch Cassidy and the Sundance Kid,1969,4,7,0.571
+103,"Hello, Dolly!",1969,3,7,0.429
+104,7th Heaven,1927,3,5,0.6
+105,The Adventures of Robin Hood,1938,3,4,0.75
+106,All About Eve,1950,6,14,0.429
+107,All the King's Men,1949,3,7,0.429
+108,An American in Paris,1951,6,8,0.75
+109,Anthony Adverse,1936,4,7,0.571
+110,The Apartment,1960,5,10,0.5
+111,Around the World in Eighty Days,1956,5,8,0.625
+112,The Bad and the Beautiful,1952,5,6,0.833
+113,Ben-Hur,1959,11,12,0.917
+114,The Bridge on the River Kwai,1957,7,8,0.875
+115,Camelot,1967,3,5,0.6
+116,Casablanca,1943,3,8,0.375
+117,Cavalcade,1933,3,4,0.75
+118,Cimarron,1931,3,7,0.429
+119,Cleopatra,1963,4,9,0.444
+120,Darling,1965,3,5,0.6
+121,The Diary of Anne Frank,1959,3,8,0.375
+122,Doctor Zhivago,1965,5,10,0.5
+123,Elmer Gantry,1960,3,5,0.6
+124,From Here to Eternity,1953,8,13,0.615
+125,Gentleman's Agreement,1947,3,8,0.375
+126,Gigi,1958,9,9,1
+127,Going My Way,1944,7,10,0.7
+128,Grand Prix,1966,3,3,1
+129,The Great Ziegfeld,1936,3,7,0.429
+130,Hamlet,1948,4,7,0.571
+131,The Heiress,1949,4,8,0.5
+132,High Noon,1952,4,7,0.571
+133,How Green Was My Valley,1941,5,10,0.5
+134,How the West Was Won,1963,3,8,0.375
+135,Hud,1963,3,7,0.429
+136,In the Heat of the Night,1967,5,7,0.714
+137,The Informer,1935,4,6,0.667
+138,It Happened One Night,1934,5,5,1
+139,The King and I,1956,5,9,0.556
+140,Lawrence of Arabia,1962,7,10,0.7
+141,The Life of Emile Zola,1937,3,10,0.3
+142,The Lion in Winter,1968,3,7,0.429
+143,The Lost Weekend,1945,4,7,0.571
+144,Love Is a Many-Splendored Thing,1955,3,8,0.375
+145,A Man for All Seasons,1966,6,8,0.75
+146,Marty,1955,4,8,0.5
+147,Mary Poppins,1964,5,13,0.385
+148,Miracle on 34th Street,1947,3,4,0.75
+149,Mrs. Miniver,1942,6,12,0.5
+150,My Fair Lady,1964,8,12,0.667
+151,On the Waterfront,1954,8,12,0.667
+152,A Place in the Sun,1951,6,9,0.667
+153,Roman Holiday,1953,3,10,0.3
+154,The Rose Tattoo,1955,3,8,0.375
+155,Sayonara,1957,4,10,0.4
+156,The Song of Bernadette,1943,4,12,0.333
+157,The Sound of Music,1965,5,10,0.5
+158,Spartacus,1960,4,6,0.667
+159,The Story of Louis Pasteur,1936,3,4,0.75
+160,A Streetcar Named Desire,1951,4,12,0.333
+161,Sunset Boulevard,1950,3,11,0.273
+162,The Thief of Bagdad,1940,3,4,0.75
+163,To Kill a Mockingbird,1962,3,8,0.375
+164,Tom Jones,1963,4,10,0.4
+165,The Treasure of the Sierra Madre,1948,3,4,0.75
+166,West Side Story,1961,10,11,0.909
+167,Who's Afraid of Virginia Woolf?,1966,5,13,0.385
+168,Wilson,1944,5,10,0.5
+169,Yankee Doodle Dandy,1942,3,8,0.375
+170,Zorba the Greek,1964,3,7,0.429

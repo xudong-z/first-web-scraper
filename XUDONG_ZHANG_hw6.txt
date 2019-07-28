@@ -1,0 +1,23 @@
+1. What did you set out to study? (i.e. what was the point of your project? This should be close to your HW3 assignment, but if you switched gears or changed things, note it here.)
+
+I plan to study the awards probabilities over nominations, as well as the box-office performance of great historical Academy awarded films. Here I define “great films” as those won 3 or more academy awards(170 films in history). 
+
+Note: I changed one of the APIs I used in HW3&HW4&HW5, because that one(http://www.theimdbapi.org) has been breaking down since Dec 8th. I could have used it to extract the budget&box-office, calculate the return, and then explore the correlation between awards/nominations ratio and box-office/budget ratio. I assume there is a strong positive correlation and a pretty high coefficient. But that API failed me and I couldn’t find a similar one. Instead, I used another IMDB API(www.omdbapi.com) in very limited time. And this one cannot return budget information
+
+2. What did you Discover/what were your conclusions (i.e. what were your findings? Were your original assumptions confirmed, etc.?)
+
+The completed information I got is the plain text and density distributions of awards, nominations and their ratios for 170 films that are awarded more than three times. 
+From the Nomination Density Distribution, we can see it is almost a normal one with its mean at 8.5.
+From the Awards/Nominations Density Distribution, we can infer that the largest probability of awards is 40%-45% of the number of nominations. And this probability is nearly 30%
+In this way, we can make predictions for upcoming Academy awards. If a film has been nominated for 10 times, it is most likely to win 4 awards, and the corresponding probability is 30%.
+
+3. What difficulties did you have in completing the project?
+(1) one API failed me after the second milestone and did not recover until due. So I tried many others and find one best substitute, even though it cannot give me information about film budget.
+(2) slow response speed. So I tried to switch the data structure from  a long nested list to a dictionary. But the thing did not change much. I think the slow response is mainly due to the source3 API latency.
+4. What skills did you wish you had while you were doing the project?
+(1) to customise the command line parameters, like using par?
+(2) better use of matplotlib to plot
+(3) more efficient use of SQLite and then improve the stability and response speed
+5. What would you do “next” to expand or augment the project?
+(1) to further explore how the awards/nominations ratio and box-office/budget ratio change over years. This may reveal the different quality level and market potential of the film industry
+(2) to find the source of film distribution expense, and explore how this would help to win Academy awards
